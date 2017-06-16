@@ -6,7 +6,7 @@
     "node": "0.10.28"
   },
   "dependencies": {
-    "twilio": "latest",
+    "twilio": "~2.4.0",
     "express": "latest",
     "ejs": "latest",
     "request": "latest",
